@@ -1,4 +1,4 @@
-# autor : Gianella Alexandra Ramos Ticahuanca
+# autor : Skop
 # fecha: 10/11/2022
 # acción : Elaborar un algoritmo que utilizando un procedimiento imprima la cantidad de veces que le indiques una frase ingresada. 
 
